@@ -5,7 +5,7 @@ Parameters:
     Type: AWS::EC2::VPC::Id
   SubnetA:
     Type: AWS::EC2::Subnet::Id
-  SubnetB:
+  Subnetc:
     Type: AWS::EC2::Subnet::Id
   Certificate:
     Type: String
